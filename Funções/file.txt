@@ -1,0 +1,8 @@
+O que são funções?
+
+- São blocos de códigos que possuem nomes;
+- Realizam uma ação e podem ser reaproveitadas (chamadas novamente) ao longo do programa;
+- Podemos passar parametros para funções, que moldam a sua execução;
+- A criação de funções reduz a duplicidade do código;
+- E também melhora a manutenção do mesmo;
+- O PHP possui diversas funções prontas, que podemos utilizar;
